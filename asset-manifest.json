@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ahmad-safrizal/static/css/main.3e3acd5a.css",
+    "main.js": "/ahmad-safrizal/static/js/main.99418ac1.js",
+    "static/media/CV1.pdf": "/ahmad-safrizal/static/media/CV1.2462742549f14d1b3345.pdf",
+    "static/media/port1.png": "/ahmad-safrizal/static/media/port1.999a160641b9fc9bee95.png",
+    "static/media/port3.png": "/ahmad-safrizal/static/media/port3.429d9479206b5b1e8abc.png",
+    "static/media/port2.png": "/ahmad-safrizal/static/media/port2.d0901efd309fc975f5ed.png",
+    "static/media/pp.jpg": "/ahmad-safrizal/static/media/pp.32258aed28d711dda71e.jpg",
+    "static/media/port5.png": "/ahmad-safrizal/static/media/port5.7948e6c52423513118c2.png",
+    "static/media/port4.png": "/ahmad-safrizal/static/media/port4.caf840b6bdd303b1e4b2.png",
+    "index.html": "/ahmad-safrizal/index.html",
+    "main.3e3acd5a.css.map": "/ahmad-safrizal/static/css/main.3e3acd5a.css.map",
+    "main.99418ac1.js.map": "/ahmad-safrizal/static/js/main.99418ac1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e3acd5a.css",
+    "static/js/main.99418ac1.js"
+  ]
+}
