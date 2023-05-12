@@ -24,12 +24,6 @@
   color: var(--title-color-dark);
 }
 
-.home__hand {
-  width: 28px;
-  height: 28px;
-  margin-left: 0.4rem;
-}
-
 .home__title {
   font-size: 2.7rem;
   margin-bottom: var(--mb-0-25);
@@ -59,7 +53,7 @@
 }
 
 .home__img {
-  background: url(../../assets/profile.jpg);
+  background: url(../../assets/pp.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -69,6 +63,12 @@
   order: 1;
   justify-self: center;
   animation: profile__animate 6s ease-in-out infinite 1s;
+  filter: grayscale(100%);
+}
+
+.home__button-icon {
+  font-size: 1.2rem;
+  rotate: -30deg;
 }
 
 .home__scroll {
@@ -127,11 +127,6 @@
     column-gap: 1.25rem;
   }
 
-  .home__hand {
-    width: 26px;
-    height: 26px;
-  }
-
   .home__subtitle {
     padding-left: 3.75rem;
     margin-bottom: var(--mb-1);
@@ -187,10 +182,5 @@
   .home__img {
     width: 180px;
     height: 180px;
-  }
-
-  .home__hand {
-    width: 22px;
-    height: 22px;
   }
 }

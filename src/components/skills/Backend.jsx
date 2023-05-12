@@ -10,7 +10,7 @@ const Backend = () => {
       <div className="skills__box">
         <div className="skills__group">
           <div className="skills__data">
-            <i class="uil uil-award skills__icon"></i>
+            <i class='bx bx-badge-check skills__icon'></i>
             <div>
               <h3 className="skills__name">PHP</h3>
               <span className="skills__level">Intermediate</span>
@@ -18,7 +18,7 @@ const Backend = () => {
           </div>
 
           <div className="skills__data">
-            <i class="uil uil-award skills__icon"></i>
+            <i class='bx bx-badge-check skills__icon'></i>
             <div>
               <h3 className="skills__name">Node Js</h3>
               <span className="skills__level">Intermediate</span>
@@ -26,7 +26,7 @@ const Backend = () => {
           </div>
 
           <div className="skills__data">
-            <i class="uil uil-award skills__icon"></i>
+            <i class='bx bx-badge-check skills__icon'></i>
             <div>
               <h3 className="skills__name">Golang</h3>
               <span className="skills__level">Basic</span>
@@ -36,7 +36,7 @@ const Backend = () => {
         
         <div className="skills__group">
           <div className="skills__data">
-            <i class="uil uil-award skills__icon"></i>
+            <i class='bx bx-badge-check skills__icon'></i>
             <div>
               <h3 className="skills__name">MySQL</h3>
               <span className="skills__level">Intermediate</span>
@@ -44,7 +44,7 @@ const Backend = () => {
           </div>
 
           <div className="skills__data">
-            <i class="uil uil-award skills__icon"></i>
+            <i class='bx bx-badge-check skills__icon'></i>
             <div>
               <h3 className="skills__name">Postgres</h3>
               <span className="skills__level">Basic</span>
@@ -52,7 +52,7 @@ const Backend = () => {
           </div>
 
           <div className="skills__data">
-            <i class="uil uil-award skills__icon"></i>
+            <i class='bx bx-badge-check skills__icon'></i>
             <div>
               <h3 className="skills__name">Mongo DB</h3>
               <span className="skills__level">Basic</span>

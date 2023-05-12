@@ -107,6 +107,11 @@
   resize: none;
 }
 
+.contact__button-send {
+  font-size: 1.2rem;
+  rotate: -30deg;
+}
+
 /* Breakpoints */
 /* Large device */
 @media screen and (max-width: 992px) {
