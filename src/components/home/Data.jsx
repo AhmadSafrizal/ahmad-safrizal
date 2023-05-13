@@ -12,7 +12,7 @@ const Data = () => {
       <p className="home__description">
         I'm Web Developer based in Semarang, and I'm very passionate and dedicated to my work.
       </p>
-      <a href="#container" className="button button--flex">
+      <a href="#contact" className="button button--flex">
         Say Hello <i class='bx bx-send home__button-icon'></i>
       </a>
     </div>
