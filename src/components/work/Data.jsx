@@ -3,6 +3,7 @@ import Port2 from '../../assets/port2.png';
 import Port3 from '../../assets/port3.png';
 import Port4 from '../../assets/port4.png';
 import Port5 from '../../assets/port5.png';
+import Port6 from '../../assets/port6.png';
 
 export const projectData = [
   {
@@ -39,6 +40,13 @@ export const projectData = [
     title: 'School Website',
     category: 'frontend',
     desc: 'The school website is the online presence of a school which clearly represents all information about it so that it can make it easier for all parents, students and staff.'
+  },
+  {
+    id: 6,
+    image: Port6,
+    title: 'First Step',
+    category: 'fullstack',
+    desc: 'First Step is an e-commerce platform with a specialized focus on baby and maternity essentials. This project seamlessly integrates features for shipping and payment, utilizing RajaOngkir for shipping calculations and Midtrans for secure transactions. Explore the official website at https://first-step.my.id/ to discover a comprehensive selection of products designed to cater to the diverse needs of both mothers and infants.'
   },
 ];
 
