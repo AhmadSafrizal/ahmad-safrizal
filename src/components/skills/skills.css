@@ -20,14 +20,23 @@
 
 .skills__box {
   display: flex;
-  justify-content: center;
-  column-gap: 2.5rem;
+  flex-wrap: wrap;
 }
 
 .skills_group {
   display: grid;
   align-items: flex-start;
   row-gap: 1rem;
+}
+
+.skills__group--left {
+  order: 1;
+  width: 50%;
+}
+
+.skills__group--right {
+  order: 2;
+  width: 50%;
 }
 
 .skills__data {
