@@ -20,7 +20,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            I am a Bachelor of Information Systems and Technology student at Ivet University Semarang. Have internship experience in a state-owned company for 4 months. I am a responsible and reliable person.
+            An Information Systems and Technology graduate from Ivet University Semarang with over 2.5 years of professional experience in software development. Proven track record in building and maintaining enterprise-grade applications, ranging from frontend redevelopments for healthcare financial systems to full-stack ERP architecture. Grounded in early experience from a 4-month internship at a prominent state-owned company (BUMN), I have evolved into a reliable, highly responsible developer capable of delivering high-quality, end-to-end web solutions both independently and within collaborative teams.
           </p>
 
           <a href={CV} className="button button--flex">Download CV <i class='bx bx-file button__icon-file'></i>

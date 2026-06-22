@@ -71,6 +71,27 @@
   rotate: -30deg;
 }
 
+.home__cta {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.button--outline {
+  display: inline-block;
+  background: transparent;
+  color: var(--title-color);
+  border: 1px solid var(--title-color);
+  padding: 1rem 1.75rem;
+  border-radius: 1rem;
+  font-weight: var(--font-medium);
+}
+
+.button--outline:hover {
+  background: rgba(0,0,0,0.03);
+}
+
 .home__scroll {
   margin-left: 9rem;
 }
